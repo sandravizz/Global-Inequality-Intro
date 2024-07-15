@@ -292,194 +292,6 @@ a:focus {
 	color: transparent;
 }
 
-/****************************+ Dataviz ********************************************/
-
-/*--------------------------------------*/
-/* Button stylings */
-/*--------------------------------------*/
-
-
-
-#filters button {
-	display: left;
-	justify-content: space-evenly;
-	border: 0;
-	cursor: pointer;
-	color: white;
-	font-weight: 200;
-	line-height: 1rem;
-	border-radius: 40px;
-	font-size: 8px;
-	font-family: 'Montserrat Alternates', sans-serif;
-}
-
-#filters button:hover {
-	border-radius: 80px;
-}
-
-/*--------------------------------------*/
-/* Text stylings */
-/*--------------------------------------*/
-
-.title {
-	margin-bottom: 20px;
-	margin-top: 20px;
-	font-size: var(--step-1);
-}
-
-.article {
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 100px;
-	margin-right: 100px;
-	line-height: 1.6rem;
-	font-size: var(--step--1);
-}
-
-.chart_title {
-	margin-bottom: 30px;
-	margin-top: 20px;
-	font-size: var(--step--1);
-}
-
-.text {
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-	fill: white;
-	font-size: var(--step--3);
-}
-
-.tspan {
-	fill: white;
-	font-size: var(--step--3);
-	margin-top: 0px;
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-}
-
-.text2 {
-	margin-top: 20px;
-	margin-bottom: 20px;
-	padding-bottom: 10px;
-	fill: white;
-	font-size: var(--step--3);
-}
-
-.anotations {
-	fill: white;
-	font-size: var(--step--1);
-}
-
-.anotations2 {
-	fill: white;
-	font-size: var(--step--3);
-}
-
-.support {
-	display: inline-block;
-	padding-left: 10px;
-	padding-right: 10px;
-	font-weight: 500;
-	border-radius: 10px;
-}
-
-.decade {
-	color: #1c1423;
-	background-color: white;
-}
-
-.tropical {
-	color: #444952;
-	background-color: #ccff99;
-}
-
-/*--------------------------------------*/
-/* Chart stylings */
-/*--------------------------------------*/
-
-.container {
-	margin-right: auto;
-	margin-left: auto;
-	margin-bottom: 0px;
-	padding-right: 0px;
-	padding-left: 0px;
-	width: 100%;
-	height: auto;
-	min-height: calc(100% - 40px);
-	max-width: 1200px;
-}
-
-.super_hurricane {
-	fill: #ccff99;
-	font-size: var(--step--2);
-}
-
-/*--------------------------------------*/
-/* Tooltip */
-/*--------------------------------------*/
-
-.tooltip {
-	font-weight: 400;
-	font-size: 13px;
-	margin-left: 100;
-	padding: 10px;
-	gap: 8px;
-	display: flex;
-	flex-direction: row;
-	align-items: right;
-	text-align: center;
-	color: #444952;
-	background-color: #ccff99;
-	box-shadow: 1px 3px 8px rgba(34, 84, 114, 0.2);
-	border-radius: 3px;
-	line-height: 1.4;
-}
-
-/*--------------------------------------*/
-/* Axes stylings */
-/*--------------------------------------*/
-
-.x-violin,
-.y-violin text {
-	font-family: 'Montserrat Alternates', sans-serif;
-	font-weight: 200;
-	font-size: var(--step--3);
-	opacity: 1;
-}
-
-.x-axis,
-.y-axis text {
-	font-family: 'Montserrat Alternates', sans-serif;
-	font-weight: 300;
-	font-size: var(--step--3);
-	opacity: 1;
-}
-
-.x-axis,
-.x-violin,
-.y-axis,
-.y-violin path {
-	stroke-width: 0;
-	stroke-opacity: 0;
-	stroke: #8ff798;
-}
-
-.x-axis,
-.x-violin,
-.y-violin line {
-	fill: none;
-	stroke-width: 0;
-	stroke-opacity: 1;
-	stroke: white;
-}
-
-.y-axis line {
-	stroke-width: 0.1;
-	stroke-opacity: 1;
-	stroke: white;
-}
-
 /*--------------------------------------*/
 /* Screen stylings */
 /*--------------------------------------*/
@@ -490,10 +302,6 @@ a:focus {
 		font-size: 65px;
 	}
 
-	#filters button {
-		line-height: 1.5rem;
-		font-size: var(--step--2);
-	}
 
 	.title {
 		font-size: var(--step-1);
@@ -501,11 +309,7 @@ a:focus {
 		margin-top: 20px;
 	}
 
-	.chart_title {
-		font-size: var(--step--1);
-		margin-bottom: 30px;
-		margin-top: 20px;
-	}
+
 
 	.frame__demos {
 		font-size: var(--step--1);
@@ -535,10 +339,6 @@ a:focus {
 		font-size: var(--step--4);
 	}
 
-	#filters button {
-		line-height: 1.3rem;
-		font-size: var(--step--3);
-	}
 
 	.title {
 		font-size: var(--step-0);
@@ -546,11 +346,7 @@ a:focus {
 		margin-top: 15px;
 	}
 
-	.chart_title {
-		font-size: var(--step--2);
-		margin-bottom: 30px;
-		margin-top: 15px;
-	}
+
 
 	.frame__demos {
 		font-size: var(--step--2);
@@ -576,11 +372,6 @@ a:focus {
 		-webkit-text-stroke: 1px var(--color-slide-text);
 	}
 
-	#filters button {
-		font-weight: 400;
-		line-height: 1.1rem;
-		font-size: var(--step--4);
-	}
 
 	.title {
 		font-size: var(--step--1);
@@ -588,11 +379,7 @@ a:focus {
 		margin-top: 10px;
 	}
 
-	.chart_title {
-		font-size: var(--step--3);
-		margin-bottom: 25px;
-		margin-top: 10px;
-	}
+
 
 	.frame__demos {
 		font-size: var(--step--3);
@@ -626,11 +413,7 @@ a:focus {
 		font-size: var(--step--6);
 	}
 
-	#filters button {
-		font-weight: 400;
-		line-height: 1rem;
-		font-size: var(--step--8);
-	}
+
 
 	.title {
 		font-size: var(--step--2);
@@ -638,11 +421,7 @@ a:focus {
 		margin-top: 5px;
 	}
 
-	.chart_title {
-		font-size: var(--step--4);
-		margin-bottom: 25px;
-		margin-top: 5px;
-	}
+
 
 	.frame__demos {
 		font-size: var(--step--4);
