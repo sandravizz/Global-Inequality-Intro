@@ -7,3 +7,9 @@ The object is to transmit the situation in images, in this case the contrast of 
 ![alt text](img/finish1.png)
 
 ![alt text](img/finish2.png)
+
+Credits to
+
+- [TweenMax](https://greensock.com/tweenmax) by Greensock
+- [TextTrailEffect](https://github.com/codrops/TextTrailEffect) by Manoela Ilic
+- [imagesLoaded](https://imagesloaded.desandro.com/) by Dave DeSandro

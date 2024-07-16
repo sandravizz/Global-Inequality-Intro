@@ -14,7 +14,7 @@ body {
 	--color-text: #f6fcff;
 	--color-bg: #00161f;
 	--color-link: #eaf8e9;
-	--color-link-hover: #f6fcff;
+	--color-link-hover: #ff00c4;
 	--color-slide-text: #f6fcff;
 	color: var(--color-text);
 	background-color: var(--color-bg);
@@ -66,10 +66,10 @@ body {
 }
 
 /*--------------------------------------*/
-/* Page stylings */
+/* Text stylings */
 /*--------------------------------------*/
 
-.demo-5 {
+.page {
 	--font-trail-height: 1;
 	--font-trail-family: "Syncopate", sans-serif;
 }
@@ -258,7 +258,7 @@ a:focus {
 }
 
 .content__text {
-	font-size: 85px;
+	font-size: 90px;
 	overflow: hidden;
 	flex: 1;
 	opacity: 0;
@@ -302,12 +302,6 @@ a:focus {
 		font-size: 65px;
 	}
 
-	.title {
-		font-size: var(--step-1);
-		margin-bottom: 20px;
-		margin-top: 20px;
-	}
-
 	.frame__demos {
 		font-size: var(--step--1);
 	}
@@ -336,12 +330,6 @@ a:focus {
 		font-size: var(--step--4);
 	}
 
-	.title {
-		font-size: var(--step-0);
-		margin-bottom: 15px;
-		margin-top: 15px;
-	}
-
 	.frame__demos {
 		font-size: var(--step--2);
 	}
@@ -364,12 +352,6 @@ a:focus {
 
 	.content__text-inner--stroke {
 		-webkit-text-stroke: 1px var(--color-slide-text);
-	}
-
-	.title {
-		font-size: var(--step--1);
-		margin-bottom: 10px;
-		margin-top: 10px;
 	}
 
 	.frame__demos {
@@ -402,12 +384,6 @@ a:focus {
 
 	.tspan {
 		font-size: var(--step--6);
-	}
-
-	.title {
-		font-size: var(--step--2);
-		margin-bottom: 5px;
-		margin-top: 5px;
 	}
 
 	.frame__demos {
