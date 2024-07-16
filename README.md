@@ -10,6 +10,6 @@ The object is to transmit the situation in images, in this case the contrast of 
 
 Credits to
 
-- [TweenMax](https://greensock.com/tweenmax) by Greensock
+- [TweenMax](https://gsap.com/resources/3-migration/#loading-plugins) by Greensock
 - [TextTrailEffect](https://github.com/codrops/TextTrailEffect) by Manoela Ilic
 - [imagesLoaded](https://imagesloaded.desandro.com/) by Dave DeSandro
