@@ -2,11 +2,23 @@
 
 Visual Intro to the Dataviz Project about Global Inequality.
 
-The object is to transmit the situation in images, in this case the contrast of super rich and poverty.
+The objective of this visual intro is to transmit the topic, the main players and situations in images.
+
+Global inequality has at the center the contrast of the "super rich" and increasing poverty on the othere side.
+
+### One rises above all others
 
 ![alt text](img/finish1.png)
 
+### Suffering and surviving
+
 ![alt text](img/finish2.png)
+
+## Background
+
+I got inspired by the work and research from Matthew Soules summarised in the book "Icebergs, Zombies and the Ultra Thin.
+
+![alt text](img/3.jpg)
 
 Credits to
 
