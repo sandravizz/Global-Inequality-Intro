@@ -10,7 +10,7 @@ Global inequality has at the center the contrast of the "super rich" and increas
 
 ![alt text](img/finish1.png)
 
-### Suffering and surviving
+### Everyone else living in bad conditions
 
 ![alt text](img/finish2.png)
 
