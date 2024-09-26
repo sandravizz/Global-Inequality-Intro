@@ -1,20 +1,20 @@
 # Intro Global Inequality
 
-Visual Intro to the Dataviz Project about Global Inequality.
+This is the Visual Introduction to the Data Storytelling Project about Global Inequality.
 
-The objective of this visual intro is to transmit the topic, the main players and situations in images.
+The objective is to transmit the situation in images.
 
-Global inequality has at the center the contrast of the "super rich" and increasing poverty on the othere side.
+Global inequality is all about the contrast of the "super rich" on the one hand and the increasing poverty on the othere hand.
 
-### One rises above all others
+**One above all others**
 
 ![alt text](img/finish1.png)
 
-### Everyone else living in bad conditions
+**Everyone else in bad conditions**
 
 ![alt text](img/finish2.png)
 
-## Background
+#### Background
 
 I got inspired by the work and research from Matthew Soules summarised in the book "Icebergs, Zombies and the Ultra Thin.
 
