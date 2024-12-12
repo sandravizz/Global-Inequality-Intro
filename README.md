@@ -25,3 +25,9 @@ Credits to
 - [TweenMax](https://gsap.com/resources/3-migration/#loading-plugins) by Greensock
 - [TextTrailEffect](https://github.com/codrops/TextTrailEffect) by Manoela Ilic
 - [imagesLoaded](https://imagesloaded.desandro.com/) by Dave DeSandro
+
+---
+
+Made with :green_heart: by [Sandra](https://www.sandraviz.com)
+
+I am available for freelance data visualization work. Please [contact me](https://www.sandraviz.com/contact) in case you would like me to help you with my experience and expertise or [follow](https://bsky.app/profile/sandraviz.bsky.social) and [connect](https://www.linkedin.com/in/sandradataviz/) with me.
